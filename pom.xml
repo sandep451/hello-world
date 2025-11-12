@@ -57,10 +57,7 @@
         <artifactId>maven-site-plugin</artifactId>
         <configuration>
           <reportPlugins>
-            <plugin>
-                  <groupId>org.apache.maven.plugins</groupId>
-                   <artifactId>maven-project-info-reports-plugin</artifactId>
-                    <version>3.4.1</version>
+            <plugin>                 
               <artifactId>maven-checkstyle-plugin</artifactId>
             </plugin>
 
@@ -224,7 +221,7 @@
   </scm>
 
   <prerequisites>
-    <maven>3.9.11</maven>
+    <maven>3.0.3</maven>
   </prerequisites>
 
 </project>
