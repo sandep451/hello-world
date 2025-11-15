@@ -159,6 +159,7 @@ window.onclick = function(event) {
 }
 </script>
 
+<h2>Thank You</h2>
+
 </body>
 </html>
-
